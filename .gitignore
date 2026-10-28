@@ -1,0 +1,11 @@
+# Local warehouse data
+products.json
+
+# Go binaries
+*.exe
+*.test
+*.out
+
+# IDE
+.vscode/
+.idea/
